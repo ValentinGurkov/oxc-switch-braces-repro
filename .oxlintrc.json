@@ -1,0 +1,9 @@
+{
+    "$schema": "./node_modules/oxlint/configuration_schema.json",
+    "env": {
+        "builtin": true
+    },
+    "rules": {
+        "unicorn/switch-case-braces": "warn"
+    }
+}

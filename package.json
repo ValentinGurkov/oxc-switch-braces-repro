@@ -1,0 +1,16 @@
+{
+  "name": "oxc-switch-braces",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "oxlint --fix --deny-warnings"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.8.1",
+  "devDependencies": {
+    "oxlint": "^0.16.6"
+  }
+}
